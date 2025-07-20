@@ -2,6 +2,9 @@
 
 ## 🚀 Software Developer | Full Stack Engineer | AWS Partner Technical Accredited
 
+[Add the badge image and link]
+[![AWS Partner Technical Accredited](https://images.credly.com/size/110x110/images/aws-partner-technical.png)](https://www.credly.com/badges/7f1c5c42-57b5-48d2-8dd8-d181d9a83d6d)
+
 Innovative software developer with expertise in modern web technologies and cloud architecture. Passionate about building scalable, high-performance applications for enterprise clients.
 
 ### 🔧 Tech Stack
